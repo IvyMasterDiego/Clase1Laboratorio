@@ -1,0 +1,7 @@
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\bin\Debug\AplicacionEnClase.exe.config
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\bin\Debug\AplicacionEnClase.exe
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\bin\Debug\AplicacionEnClase.pdb
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\obj\Debug\AplicacionEnClase.csproj.AssemblyReference.cache
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\obj\Debug\AplicacionEnClase.csproj.CoreCompileInputs.cache
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\obj\Debug\AplicacionEnClase.exe
+D:\INTEC\Tendencias de software Lab\AplicacionEnClase\AplicacionEnClase\obj\Debug\AplicacionEnClase.pdb
